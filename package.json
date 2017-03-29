@@ -1,0 +1,24 @@
+{
+  "name": "improve-code-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exiach/improveCodeBackend.git"
+  },
+  "keywords": [
+    "nodeJs",
+    "javascript",
+    "compiler"
+  ],
+  "author": "Daniel Canqui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exiach/improveCodeBackend/issues"
+  },
+  "homepage": "https://github.com/exiach/improveCodeBackend#readme"
+}
