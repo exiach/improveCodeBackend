@@ -26,6 +26,8 @@
     "jasmine-node": "^1.14.5"
   },
   "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4",
     "request": "^2.81.0"
   }
 }
